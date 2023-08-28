@@ -5,20 +5,31 @@ body {
 h1 {
     font-family: 'Courier New', Courier, monospace;
     color: aquamarine;
+    text-align: center;
 }
 
 h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: aquamarine;
+
 }
 
 .p1 {
     font-family: 'Courier New', Courier, monospace;
     color: aquamarine;
-    font-size: medium;
+    font-size: x-large;
+    text-align: center;
 }
 
 .p2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: darkgrey;
+    font-size: larger;
+    
+}
+
+.image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
